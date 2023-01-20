@@ -1,7 +1,7 @@
 import { Box, HStack, Stack, Text, useBreakpointValue } from "@chakra-ui/react";
 import Image from "next/image";
 import React from "react";
-import { BsShieldFillCheck } from "react-icons/Bs";
+import { BsShieldFillCheck } from "react-icons/bs";
 import { BsFillTagFill } from "react-icons/bs";
 import { MdOutlineRestartAlt } from "react-icons/md";
 const Features = () => {
